@@ -1,6 +1,6 @@
 # Awesome Android-x86
 
-A curated list of Android-x86 tools and resources.
+A curated list of Android-x86 distros, tools resources and wikis.
 
 If you want to contribute, please read [this](CONTRIBUTING.md).
 
@@ -9,6 +9,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Distributions](#distributions)
   - [Tools](#tools)
   - [Resources](#resources)
+  - TODO
 
 ## Distributions
 
