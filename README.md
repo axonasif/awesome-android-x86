@@ -26,6 +26,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [Android-x86 Installer for Linux](https://github.com/jaxparrow07/Androidx86-Installer-Linux) — Looking good.
 * [GearLock](github.com/axonasif/gearlock) — Custom recovery replacement for Android-x86.
 
-## Resouces
+## Resources
 
 * [Tasty custom kernels](https://supreme-gamers.com/search/364438/?q=kernel&t=resource&c[categories][0]=3&c[child_categories]=1&c[prefixes][0]=1&c[title_only]=1&c[users]=HMTheBoy154&o=date)
