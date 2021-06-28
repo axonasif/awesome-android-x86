@@ -9,6 +9,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Distributions](#distributions)
   - [Tools](#tools)
   - [Resources](#resources)
+  - [Wikis](#wikis)
   - TODO
 
 ## Distributions
@@ -30,3 +31,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ## Resources
 
 * [Tasty custom kernels](https://supreme-gamers.com/search/364438/?q=kernel&t=resource&c[categories][0]=3&c[child_categories]=1&c[prefixes][0]=1&c[title_only]=1&c[users]=HMTheBoy154&o=date)
+
+## Wikis
+
+* [Android-x86 Docs](https://www.android-x86.org/documentation.html)
+* [BlissLabs Docs](https://docs.blissos.org)
+* [SupremeGamers Wiki](https://wiki.supreme-gamers.com)
