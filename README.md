@@ -24,8 +24,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Tools
 
-* [Android-x86 Installer for windows](https://github.com/ExtremeGTX/Androidx86-Installer-for-Windows) — It was nice!
+* [Android-x86 Installer for Windows](https://github.com/ExtremeGTX/Androidx86-Installer-for-Windows) — It was nice!
 * [Android-x86 Installer for Linux](https://github.com/jaxparrow07/Androidx86-Installer-Linux) — Looking good.
+* [Advanced Android-x86 Installer for Windows](https://supreme-gamers.com/r/advanced-android-x86-installer-for-windows.61) — #TODO
 * [Android Generic](https://github.com/android-generic) — #TODO
 * [Bigdroid](https://github.com/bigdroid) — #TODO
 * [GearLock](github.com/axonasif/gearlock) — Custom recovery replacement for Android-x86.
