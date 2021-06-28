@@ -26,8 +26,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 * [Android-x86 Installer for windows](https://github.com/ExtremeGTX/Androidx86-Installer-for-Windows) — It was nice!
 * [Android-x86 Installer for Linux](https://github.com/jaxparrow07/Androidx86-Installer-Linux) — Looking good.
-* [Android Generic](https://github.com/android-generic)
-* [Bigdroid](https://github.com/bigdroid)
+* [Android Generic](https://github.com/android-generic) — #TODO
+* [Bigdroid](https://github.com/bigdroid) — #TODO
 * [GearLock](github.com/axonasif/gearlock) — Custom recovery replacement for Android-x86.
 
 ## Resources
