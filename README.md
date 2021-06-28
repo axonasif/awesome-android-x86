@@ -19,7 +19,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * OpenThos [[Github](https://github.com/openthos/openthos/wiki/Installation-and-Running--OpenThOs-img) | [Fosshub](https://www.fosshub.com/OPENTHOS.html)] — #TODO
 * [RemixOS](https://www.fosshub.com/Remix-OS.html) — The first featured android-x86 fork but _closed-source_.
 * [PhoenixOS](http://www.phoenixos.com/en/download_x86) — Been another _close-sourced_ rival to the RemixOS back in 2015!
-* [PrimeOS](https://primeos.in/download) — Just another _close-sourced_ fork of android-x86 coming out along the _PUBG MOBIL HYPE_.
+* [PrimeOS](https://primeos.in/download) — Yet another _close-sourced_ fork of android-x86 coming out along the _PUBG MOBIL HYPE_.
 * [PhoenixOS DarkMatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2) — Again, another modified distribution of the _close-sourced_ PhoenixOS.
 
 ## Tools
